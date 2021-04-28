@@ -1,1 +1,2 @@
 Esto es un archivo de prueba para aprender sobre git y github
+ahora lo estoy cambiando pa ve que es lo que es
