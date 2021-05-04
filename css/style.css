@@ -34,3 +34,12 @@ body {
 #post {
     padding: 1em;
 }
+.pie {
+    background-color: coral;
+    color: whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+}
