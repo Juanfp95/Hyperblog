@@ -1,4 +1,4 @@
-# hyperblog :tw-270c:
+# hyperblog :green_heart:
 Un blog increíble para el curso de Git y Github de Platzi
 
 En este curso veremos de todo:
